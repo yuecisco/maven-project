@@ -132,7 +132,7 @@
 			<groupId>org.apache.derby</groupId>
 			<artifactId>derby</artifactId>
 			<version>${derby.version}</version>
-			<scope>provided</scope>
+			<!--  <scope>provided</scope> -->
 		</dependency>
 
 		<dependency>
